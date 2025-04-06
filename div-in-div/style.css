@@ -1,0 +1,31 @@
+.container {
+  border: 2px black solid;
+  height: 200px;
+}
+
+.element-1 {
+  border: 1px red solid;
+  height: 60px;
+  width: 60px;
+  background: #fcc;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.element-2 {
+  border: 1px green solid;
+  height: 60px;
+  width: 60px;
+  background: #cfc;
+  border-radius: 20px;
+  display: inline-block;
+}
+
+.element-3 {
+  border: 1px blue solid;
+  height: 60px;
+  width: 60px;
+  background: #ccf;
+  border-radius: 30px;
+  display: inline-block;
+}
