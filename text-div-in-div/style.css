@@ -10,7 +10,12 @@
   background: #844;
   color: white;
   width: 150px;
-  height: 100px;
+  height: 150px;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-right: 10px;
+  margin-top: 5px;
+  margin-left: 5px;
 }
 
 .element-1-1 {
@@ -43,8 +48,13 @@
   background: #484;
   color: white;
   width: 150px;
-  height: 100px;
+  height: 150px;
   word-break: break-all;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-right: 10px;
+  margin-top: 10px;
+  margin-left: 5px;
 }
 
 .element-2-1 {
@@ -61,8 +71,11 @@
   background: #448;
   color: white;
   width: 150px;
-  height: 100px;
+  height: 150px;
   word-break: break-all;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-right: 10px;
 }
 
 .element-3-1 {
@@ -79,8 +92,11 @@
   background: #a80;
   color: white;
   width: 150px;
-  height: 100px;
+  height: 150px;
   word-break: break-all;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-right: 10px;
 }
 
 .element-4-1 {
